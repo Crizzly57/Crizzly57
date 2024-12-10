@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sven 👋<br>I'm a software developer based in Baden-Württemberg, Germany, with a passion for creating scalable solutions and advancing automation technology.<br>💻 I design advanced libraries for TwinCAT3, emphasizing Object-Oriented Programming to optimize industrial systems.<br>🛠️ Currently expanding my expertise in microcontroller programming using the ESP32 and Espressif IDF framework.<br>🌐 Exploring IoT technologies, including OTA updates and remote monitoring solutions.<br>⚙️ Enthusiastic about all things automation, from industrial machinery to embedded systems.
+Hi, I'm Sven 👋<br>I'm a software developer based in Baden-Württemberg, Germany, with a passion for creating scalable solutions and advancing automation technology.<br><br>💻 I design advanced libraries for TwinCAT3, emphasizing Object-Oriented Programming to optimize industrial systems.<br>🛠️ Currently expanding my expertise in microcontroller programming using the ESP32 and Espressif IDF framework.<br>🌐 Exploring IoT technologies, including OTA updates and remote monitoring solutions.<br>⚙️ Enthusiastic about all things automation, from industrial machinery to embedded systems.
 
 
 ## 🌐 Socials:
